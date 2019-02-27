@@ -1,6 +1,6 @@
 [submodule "QuEST"]
 	path = QuEST
-	url = https://github.com/QuEST-Kit/QuEST.git
+	url = https://github.com/nuraiman/QuEST.git
 [submodule "Intel-QS"]
 	path = Intel-QS
 	url = https://github.com/intel/Intel-QS.git
