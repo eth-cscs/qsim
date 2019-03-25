@@ -4,3 +4,6 @@
 [submodule "Intel-QS"]
 	path = Intel-QS
 	url = https://github.com/intel/Intel-QS.git
+[submodule "qiskit-aqua"]
+	path = qiskit-aqua
+	url = https://github.com/mazzolag/qiskit-aqua.git
