@@ -3,7 +3,7 @@
 	url = https://github.com/nuraiman/QuEST.git
 [submodule "Intel-QS"]
 	path = Intel-QS
-	url = https://github.com/intel/Intel-QS.git
+	url = https://github.com/mazzolag/Intel-QS.git
 [submodule "qiskit-aqua"]
 	path = qiskit-aqua
 	url = https://github.com/mazzolag/qiskit-aqua.git
